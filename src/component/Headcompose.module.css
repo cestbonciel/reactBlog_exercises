@@ -1,0 +1,15 @@
+/* .box{
+    width: 200px;
+    height: 50px;
+    background-color: lightblue;
+border: none;
+} */
+
+.headTit{margin: 0;padding: 0;margin-bottom: 15px;}
+button.btn{border: 0;padding: 10px;background: rgba(0, 140, 255, 0.973);color: #fff;
+border-radius:10px 0 0 10px;width: 125px;text-align: center;cursor: pointer;
+}
+button.btn:hover{background: rgba(0, 140, 255,0.4);}
+button.btn2{border: 0;border-left: 1px solid #000;padding: 10px;background: rgb(0, 172, 106);color: #fff;border-radius:0 10px 10px 0;width: 125px;text-align: center;cursor: pointer;
+}
+.btn2:hover{background: rgb(0, 172, 106,0.4);}
