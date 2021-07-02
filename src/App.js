@@ -13,7 +13,9 @@ function App() {
    
       <BrowserRouter>
         <div className="App" >
-            <Header/>
+            <div className="headerWrap">
+              <Header/>
+            </div>
             <Switch>
               <Route exact path="/">
                 <DayList/>
